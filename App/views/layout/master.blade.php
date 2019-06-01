@@ -10,14 +10,14 @@
 <body>
     <section id="main">
         <div class="container">
-            <header>
+            <header class="d-flex">
                 <div class="logo">
                     <h1>My Blog</h1>
                 </div>
 
                 <div class="icon-bar">
-                    <span>아이콘</span>
-                    <span>아이콘</span>
+                    <i class="fas fa-search"></i>
+                    <i class="fas fa-bars"></i>
                 </div>
             </header>
         </div>  
